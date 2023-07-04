@@ -1,0 +1,184 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Electrical Power Laboratory - Department of Electrical and Electronic Engineering",
+      "image": "images/dishes/laboratary.jpg",
+      "author": "IEEE PES",
+      "eno": "",
+      "date": "05/26/2023",
+      "featured": true,
+      "description": "The Electrical Power Laboratory at University of Jaffna's Department of Electrical and Electronic Engineering is equipped with advanced facilities for power engineering research and practical experiments. It focuses on providing students with hands-on learning experiences to complement their theoretical knowledge. The laboratory features a TERCO MV1420 Transmission Line Model, allowing students to conduct studies on transmission line characteristics, voltage drop, losses, short circuits, and earth faults. Additionally, it offers resources for constructing single-phase transformers accurately and analyzing their design, voltage and current ratios, voltage regulation, and equivalent circuit parameters. Through these facilities, students gain practical skills and bridge the gap between theory and real-world applications in power engineering."
+    }
+  ],
+  "events": [
+    {
+      "id": 0,
+      "name": "An electrifying experience at the Phase 2 of the PSCAD Workshop!",
+      "image": "images/events/PSCADWorkshop.jpg",
+      "author": "mains",
+      "label": "Hot",
+      "price": "4.99",
+      "featured": true,
+      "description": ""
+    }
+  ],
+  "headers": [
+    
+  ],
+  "comments": [
+    
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Annual Genaral Meeting",
+      "image": "images/promotions/agm-annual-general-meeting.jpg",
+      "label": "AGM",
+      "price": "19.99",
+      "featured": true,
+      "description": "We are excited to announce that the IEEE Power & Energy Society (PES) Annual General Meeting (AGM) will be hosted at our university on 27 May 2023 at 6 PM. The AGM serves as a platform for professionals, researchers, and students in the field of power and energy to come together and exchange ideas, share knowledge, and discuss the latest advancements in the industry.During this event, esteemed speakers and experts from various sectors of the power and energy field will present their research, insights, and innovative ideas. Attendees will have the opportunity to network with industry professionals, engage in interactive discussions, and gain valuable insights into the emerging trends and challenges in power and energy engineering.Whether you are a student, researcher, or industry professional, the IEEE PES AGM promises to be a rewarding experience, providing a platform for collaboration, learning, and professional development. Join us on 27 May 2023 at 6 PM to be part of this prestigious event and contribute to the advancement of the power and energy industry. "
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Prof. Athputharajah Arulamplam",
+      "image": "images/leaders/athputharajah_sir.jpg",
+      "designation": "Advisor",
+      "abbr": "Adviosr",
+      "featured": true,
+      "description": "Prof. A. Atputharajah received BSc Eng Degree with first class honours from University of Peradeniya in 1997 and PhD from University of Manchester Institute of Science and Technology (UMIST) in 2003. From 24th June 2015 to 23rd June 2021, he served as the Dean of the Faculty of Engineering, University of Jaffna. From November 2013 till June 2015, he served the University of Jaffna at the capacity of Acting Dean of the Faculty of Engineering. In November 2013, he was permanently released from the University of Peradeniya to serve the University of Jaffna on establishing the Faculty of Engineering. From October 2010 till October 2013, he served as the Head of the Department of Electrical and Electronic Engineering at University of Peradeniya."
+    },
+    {
+      "id": 1,
+      "name": "Charaka Viduranga",
+      "image": "images/leaders/charaka.jpg",
+      "designation": "Chairman",
+      "abbr": "Chairman",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 2,
+      "name": "Poornima Madubashini",
+      "image": "images/leaders/Poornima.jpg",
+      "designation": "Vice Chairman",
+      "abbr": "VC",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 3,
+      "name": "Hiruni Chamindi",
+      "image": "images/leaders/Oli.jpg",
+      "designation": "Secretary",
+      "abbr": "Secretary",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 4,
+      "name": "Osanda Senarathne",
+      "image": "images/leaders/osanda.jpg",
+      "designation": "Assistant Secretary",
+      "abbr": "Assistant_Secretary",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 5,
+      "name": "Akitha Anuppriya",
+      "image": "images/leaders/akku.jpg",
+      "designation": "Treasurer",
+      "abbr": "Treasurer",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 6,
+      "name": "Hemakanth N",
+      "image": "images/leaders/editor.jpg",
+      "designation": "Editor",
+      "abbr": "Editor",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 7,
+      "name": "Pramod Gunarathne",
+      "image": "images/leaders/kumudu.jpg",
+      "designation": "Web Master",
+      "abbr": "Web_master",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 8,
+      "name": "Rusanya Thivaharan",
+      "image": "images/leaders/rusannya.jpg",
+      "designation": "Committee Member E19",
+      "abbr": "Committee_Member_E19",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 9,
+      "name": "Kugasaran S.",
+      "image": "images/leaders/committe_e20.jpg",
+      "designation": "Committee Member E20",
+      "abbr": "Committee_Member_E20",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 10,
+      "name": "himal raveen",
+      "image": "images/leaders/cata.jpg",
+      "designation": "Committee Member E21",
+      "abbr": "Committee Member E21",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 11,
+      "name": "Ravindu madhusanka",
+      "image": "images/leaders/ravindu.jpg",
+      "designation": "Committee Member E21",
+      "abbr": "Committee_Member_E21",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 12,
+      "name": "Kavindya Dulanjali",
+      "image": "images/leaders/kavindya.jpg",
+      "designation": "Committee Member E22",
+      "abbr": "Committee_Member_E21",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 13,
+      "name": "Navamedullan K",
+      "image": "images/leaders/Navamedullan.jpg",
+      "designation": "Committee Member E22",
+      "abbr": "Committee Member E22",
+      "featured": false,
+      "description": ""
+    }
+  ],
+
+  "up_events": [
+    {
+      "id": 0,
+      "name": "An electrifying experience at the Phase 2 of the PSCAD Workshop!",
+      "image": "images/events/PSCADWorkshop.jpg",
+      "author": "mains",
+      "label": "Hot",
+      "price": "4.99",
+      "featured": true,
+      "description": ""
+    }
+  ]
+}
